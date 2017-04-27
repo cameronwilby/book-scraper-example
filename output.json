@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Programming Pearls",
+    "author": "Jon Bentley",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41KHvfm4-fL._AC_UY270_.jpg",
+    "price": "$28.79"
+  },
+  {
+    "title": "Algorithms to Live By",
+    "author": "Brian Christian",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51FhJXhhK6L._AC_UY270_.jpg",
+    "price": "$14.99"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41uPjEenkFL._AC_UY270_.jpg",
+    "price": "$31.65"
+  },
+  {
+    "title": "Code: The Hidden Language",
+    "author": "Charles Petzold",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/31Fb8fGBU-L._AC_UY270_.jpg",
+    "price": "$12.83"
+  },
+  {
+    "title": "Programming Interviews Exposed",
+    "author": "John Mongan",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51csf0YWimL._AC_UY270_.jpg",
+    "price": "$14.51"
+  },
+  {
+    "title": "Exercises for Programmers",
+    "author": "Brian P. Hogan",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/513azvyRViL._AC_UY270_.jpg",
+    "price": "$15.83"
+  },
+  {
+    "title": "Algorithm Design Manual",
+    "author": "Steven S Skiena",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51uABdrgnrL._AC_UY270_.jpg",
+    "price": "$69.99"
+  },
+  {
+    "title": "The Passionate Programmer",
+    "author": "Chad Fowler",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51m3yzmDFCL._AC_UY270_.jpg",
+    "price": "$20.00"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51fgDX37U7L._AC_UY270_.jpg",
+    "price": "$63.00"
+  },
+  {
+    "title": "Coders at Work",
+    "author": "Peter Seibel",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41rQjRyMmwL._AC_UY270_.jpg",
+    "price": "$20.99"
+  },
+  {
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51MEZDyKvZL._AC_UY270_.jpg",
+    "price": "$23.49"
+  },
+  {
+    "title": "Write Great Code",
+    "author": "Randall Hyde",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41Rnqj%2BkGDL._AC_UY270_.jpg",
+    "price": "$17.25"
+  },
+  {
+    "title": "How Software Works",
+    "author": "V. Anton Spraul",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51qJQPs4tzL._AC_UY270_.jpg",
+    "price": "$14.37"
+  },
+  {
+    "title": "Algorithms",
+    "author": "Robert Sedgewick",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41SRhYah3AL._AC_UY270_.jpg",
+    "price": "$57.59"
+  },
+  {
+    "title": "How to Stop Sucking + Be Awesome Instead",
+    "author": "Jeff Atwood",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51DAEjoFNtL._AC_UY270_.jpg",
+    "price": "$3.99"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51d1qVhmAmL._AC_UY270_.jpg",
+    "price": "$30.63"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51XswOmuLqL._AC_UY270_.jpg",
+    "price": "$24.49"
+  },
+  {
+    "title": "The DevOps 2.0 Toolkit",
+    "author": "Viktor Farcic",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41TWSblk7HL._AC_UY270_.jpg",
+    "price": "$29.00"
+  },
+  {
+    "title": "The Go Programming Language",
+    "author": "Alan A. A. Donovan",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/510Qib-dSCL._AC_UY270_.jpg",
+    "price": "$15.99"
+  },
+  {
+    "title": "How Linux Works",
+    "author": "Brian Ward",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Xx8GvPL%2BL._AC_UY270_.jpg",
+    "price": "$19.99"
+  },
+  {
+    "title": "Nine Algorithms That Changed the Future",
+    "author": "John MacCormick",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/517mmn6wLnL._AC_UY270_.jpg",
+    "price": "$9.99"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/511j6cza5bL._AC_UY270_.jpg",
+    "price": "$13.49"
+  },
+  {
+    "title": "Web Development with Node and Express",
+    "author": "Ethan Brown",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51L%2Biq%2Bh6EL._AC_UY270_.jpg",
+    "price": "$16.49"
+  },
+  {
+    "title": "Coding Interview Ninja",
+    "author": "Ekim Ouye",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41NF0fQRIFL._AC_UY270_.jpg",
+    "price": "$2.99"
+  }
+]
